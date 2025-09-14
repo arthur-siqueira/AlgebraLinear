@@ -1,2 +1,2 @@
 # AlgebraLinear
-Repositório que contém o projeto da disciplina álgebra linear
+Projeto compressor de imagens feito durante a disciplina de álgebra linear
